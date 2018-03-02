@@ -1,0 +1,5 @@
+Flask==0.12.2
+Flask-Slack==0.1.5
+requests==2.17.3
+slack==0.0.2
+twilio==6.3.0
